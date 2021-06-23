@@ -1,4 +1,5 @@
 # Bitcoin Consulting Resources
+![Bitcoin Logo](/Resources/Bitcoin_Logo.png)
 
 ### Macro Environment Visuals
 [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
