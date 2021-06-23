@@ -1,12 +1,12 @@
-# Bitcoin Consulting Resources
 ![Bitcoin Logo](/Resources/Bitcoin_Logo.png)
+# Bitcoin Consulting Resources
 
-### Macro Environment Visuals
+## Macro Environment Visuals
 [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
 [US Debt Clock](https://www.usdebtclock.org/)
 
-### Federal Reserve Data
+## Federal Reserve Data
 M2 Money Stock
 ![M2 Money Stock](/Resources/M2_FRED_Data.png)
 
