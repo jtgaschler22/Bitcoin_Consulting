@@ -8,12 +8,15 @@
 
 ## Federal Reserve Data
 M2 Money Stock
+
 ![M2 Money Stock](/Resources/M2_FRED_Data.png)
 
 CPI for All Urban Consumers: All Items in U.S. City Average
+
 ![CPI](/Resources/CPI_Data.png)
 
 ## Bitcoin Historical Data
 Mining Reward Halving Cycles
-![Mining Reward Halving Cycles](/Resources/Halving_Cycles.png)
+
+![Mining Reward Halving Cycles](/Resources/Halving_Cycles.PNG)
 
