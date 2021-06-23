@@ -20,3 +20,7 @@ Mining Reward Halving Cycles
 
 ![Mining Reward Halving Cycles](/Resources/Halving_Cycles.PNG)
 
+Bitcoin Circulating Supply
+
+![Bitcoin Circulating Supply](/Resources/Bitcoin_Supply.PNG)
+
