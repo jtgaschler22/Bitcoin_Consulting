@@ -20,7 +20,10 @@ Mining Reward Halving Cycles
 
 ![Mining Reward Halving Cycles](/Resources/Halving_Cycles.PNG)
 
-Bitcoin Circulating Supply
+Bitcoin Circulating Supply (as of 6/23/2021)
 
 ![Bitcoin Circulating Supply](/Resources/Bitcoin_Supply.PNG)
 
+Network Hash Rate (as of 6/23/2021)
+
+![Network Hash Rate](/Resources/Hash_Rate.PNG)
