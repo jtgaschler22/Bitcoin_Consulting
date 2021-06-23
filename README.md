@@ -5,4 +5,9 @@
 
 [US Debt Clock](https://www.usdebtclock.org/)
 
+### Federal Reserve Data
+M2 Money Supply
 ![M2 Money Supply](/Resources/M2_FRED_Data.png)
+
+CPI for All Urban Consumers: All Items in U.S. City Average
+![CPI](/Resources/CPI_Data.png)
