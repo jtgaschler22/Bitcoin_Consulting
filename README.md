@@ -12,3 +12,8 @@ M2 Money Stock
 
 CPI for All Urban Consumers: All Items in U.S. City Average
 ![CPI](/Resources/CPI_Data.png)
+
+## Bitcoin Historical Data
+Mining Reward Halving Cycles
+![Mining Reward Halving Cycles](/Resources/Halving_Cycles.png)
+
