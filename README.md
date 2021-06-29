@@ -46,6 +46,9 @@ To see data on unconfirmed transactions waiting to be mined:
 General Network Data and Metrics (Some data paywalled):
 [Coinmetrics](https://charts.coinmetrics.io/network-data/)
 
+Bitcoin Visuals:
+[BitcoinVisuals](https://bitcoinvisuals.com/)
+
 Bitcoin Github Repository:
 [Bitcoin GitHub Repo](https://github.com/bitcoin)
 
