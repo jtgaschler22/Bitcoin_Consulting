@@ -27,3 +27,16 @@ Bitcoin Circulating Supply (as of 6/23/2021)
 Network Hash Rate (as of 6/23/2021)
 
 ![Network Hash Rate](/Resources/Hash_Rate.PNG)
+
+
+## Bitcoin Network Resources
+To get transaction information or data on past blocks:
+[Bitcoin Block Explorer](https://blockstream.info/)
+
+To see data on unconfirmed transactions waiting to be mined:
+[Bitcoin Mempool](https://mempool.space/)
+
+General Network Data and Metrics (Some data paywalled):
+[Coinmetrics](https://charts.coinmetrics.io/network-data/)
+
+
