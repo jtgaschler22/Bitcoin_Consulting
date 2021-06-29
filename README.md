@@ -28,6 +28,10 @@ Network Hash Rate (as of 6/23/2021)
 
 ![Network Hash Rate](/Resources/Hash_Rate.PNG)
 
+Bitcoin Market Cap Dominance
+
+![Bitcoin Market Cap Dominance](/Resources/Bitcoin_Market_Dominance.PNG)
+
 ## Bitcoin Compared to Traditional Money
 
 ![Bitcoin vs. Gold + Fiat](/Resources/Fiat_Gold_Bitcoin_Comparison.PNG)
