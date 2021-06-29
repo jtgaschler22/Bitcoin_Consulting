@@ -28,6 +28,9 @@ Network Hash Rate (as of 6/23/2021)
 
 ![Network Hash Rate](/Resources/Hash_Rate.PNG)
 
+## Bitcoin Compared to Traditional Money
+
+![Bitcoin vs. Gold + Fiat](/Resources/Fiat_Gold_Bitcoin_Comparison.PNG)
 
 ## Bitcoin Network Resources
 To get transaction information or data on past blocks:
